@@ -45,7 +45,7 @@
 
 ## For-credit Computer Science Courses
 
-> [There are reports of Information Technology graduates rejected by Georgia Tech. This is primarily because Information Technology does not have the same courses as Computer Science. If you are struggling to go back to school, the University might recognize some MOOC's/.](https://plus.google.com/u/0/101818942608826178101/posts/CcMMURwzFB5?cfem=1)
+> [There are reports of Information Technology graduates rejected by Georgia Tech. This is primarily because Information Technology does not have the same courses as Computer Science. If you are struggling to go back to school, the University might recognize some MOOC's.](https://plus.google.com/u/0/101818942608826178101/posts/CcMMURwzFB5?cfem=1)
 
 
 ## Post-admission Resources
@@ -74,7 +74,7 @@
 ### Rank
 
 - [Top 6 in Computer Science - United States](https://www.usnews.com/best-colleges/georgia-tech-1569/overall-rankings)
-- [QS World University Rankings 2018: Statistics](https://www.theguardian.com/higher-education-network/2018/feb/28/qs-world-university-rankings-2018-statistics)
+- [QS World University Rankings 2018: Statistics - Top 7 Worldwide](https://www.theguardian.com/higher-education-network/2018/feb/28/qs-world-university-rankings-2018-statistics)
 
 
 ### Songs
