@@ -62,7 +62,7 @@
 ### TOEFL
 
 - [TOEFL iBT](https://www.ets.org/toefl/ibt/about)
-- [Official TOEFL Practice Test](https://www.ets.org/toefl/ibt/prepare)
+- [Official TOEFL Practice Test](http://toeflpractice.ets.org)
 
 
 ## Georgia Institute of Technology General Info
