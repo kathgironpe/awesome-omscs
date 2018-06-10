@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="632px" height="212px" viewBox="0 0 632 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Helvetica" font-size="48" font-weight="normal" line-spacing="70" fill="#E2D205">
+            <tspan x="211.046875" y="48">Awesome</tspan>
+            <tspan x="47.875" y="118">Online Master of Science</tspan>
+            <tspan x="1.24609375" y="188">Computer Science (OMS CS)</tspan>
+        </text>
+        <filter x="-0.4%" y="-1.2%" width="100.8%" height="102.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.711468963   0 0 0 0 0.576014359   0 0 0 0 0  0 0 0 0.870074728 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-0.4%" y="-1.2%" width="100.8%" height="102.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.711468963   0 0 0 0 0.576014359   0 0 0 0 0  0 0 0 0.870074728 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.297186368">
+        <g id="Awesome-Online-Maste" stroke="#979797">
+            <use fill="#E2D205" fill-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
+            <use fill="#E2D205" fill-opacity="1" filter="url(#filter-3)" xlink:href="#text-1"></use>
+            <use xlink:href="#text-1"></use>
+        </g>
+    </g>
+</svg>

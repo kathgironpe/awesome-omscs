@@ -1,0 +1,26 @@
+{
+  "name": "awesome-omscs",
+  "version": "0.0.1",
+  "description": "Awesome OMSCS Resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katgironpe/awesome-omscs.git"
+  },
+  "keywords": [
+    "OMSCS",
+    "GA Tech"
+  ],
+  "author": "Katherine G. Pe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katgironpe/awesome-omscs/issues"
+  },
+  "homepage": "https://github.com/katgironpe/awesome-omscs#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.2.0"
+  }
+}
