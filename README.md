@@ -2,7 +2,7 @@
 
 > Resources on admission, and how to succeed for the Online Master of Science in Computer Science program of the Georgia Institute of Technology.
 
---Disclaimer: we do not guarantee that all of the information on this page are reliable. You have to read through the official website's FAQ first.--
+**Disclaimer: we do not guarantee that all of the information on this page are reliable. You have to read through the official website's FAQ first.**
 
 ## Table of Contents
 
