@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="632px" height="212px" viewBox="0 0 632 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="663px" height="295px" viewBox="0 0 663 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>Untitled 3</title>
+    <title>AWESOME ONLINE MASTE</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <text id="text-1" font-family="Helvetica" font-size="48" font-weight="normal" line-spacing="70" fill="#E2D205">
-            <tspan x="211.046875" y="48">Awesome</tspan>
-            <tspan x="47.875" y="118">Online Master of Science</tspan>
-            <tspan x="1.24609375" y="188">Computer Science (OMS CS)</tspan>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="LucidaGrande, Lucida Grande" font-size="48" font-weight="normal">
+        <text id="AWESOME-ONLINE-MASTE">
+            <tspan x="216.152344" y="36" fill="#0B264E">AWESOME</tspan>
+            <tspan x="446.847656" y="36" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="-1.7578125" y="92" fill="#AE9853">ONLINE</tspan>
+            <tspan x="171.890625" y="92" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="188.296875" y="92" fill="#AE9853">MASTER</tspan>
+            <tspan x="375.328125" y="92" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="391.734375" y="92" fill="#AE9853">OF</tspan>
+            <tspan x="454.757812" y="92" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="471.164062" y="92" fill="#AE9853">SCIENCE</tspan>
+            <tspan x="664.757812" y="92" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="306.855469" y="159" fill="#AE9853">IN</tspan>
+            <tspan x="356.144531" y="159" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="97.3242188" y="215" fill="#AE9853">COMPUTER</tspan>
+            <tspan x="355.675781" y="215" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="372.082031" y="215" fill="#AE9853">SCIENCE</tspan>
+            <tspan x="565.675781" y="215" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="210.960938" y="282" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E">(</tspan>
+            <tspan x="226.96875" y="282" fill="#0B264E">GA</tspan>
+            <tspan x="294.773438" y="282" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E"> </tspan>
+            <tspan x="311.179688" y="282" fill="#0B264E">TECH</tspan>
+            <tspan x="436.03125" y="282" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E">)</tspan>
         </text>
-        <filter x="-0.4%" y="-1.2%" width="100.8%" height="102.4%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.711468963   0 0 0 0 0.576014359   0 0 0 0 0  0 0 0 0.870074728 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-        <filter x="-0.4%" y="-1.2%" width="100.8%" height="102.4%" filterUnits="objectBoundingBox" id="filter-3">
-            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
-            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.711468963   0 0 0 0 0.576014359   0 0 0 0 0  0 0 0 0.870074728 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.297186368">
-        <g id="Awesome-Online-Maste" stroke="#979797">
-            <use fill="#E2D205" fill-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
-            <use fill="#E2D205" fill-opacity="1" filter="url(#filter-3)" xlink:href="#text-1"></use>
-            <use xlink:href="#text-1"></use>
-        </g>
     </g>
 </svg>
