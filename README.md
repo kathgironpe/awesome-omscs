@@ -43,9 +43,22 @@
 
 
 
-## For-credit Computer Science Courses
+## Computer Science Courses
 
-> [There are reports of Information Technology graduates rejected by Georgia Tech. This is primarily because Information Technology does not have the same courses as Computer Science. If you are struggling to go back to school, the University might recognize some MOOC's.](https://plus.google.com/u/0/101818942608826178101/posts/CcMMURwzFB5?cfem=1)
+> [There are reports of Information Technology graduates rejected by Georgia Tech. This is primarily because Information Technology does not have the same courses as Computer Science. If you are struggling to go back to school, the University might recognize some MOOC certificates.](https://plus.google.com/u/0/101818942608826178101/posts/CcMMURwzFB5?cfem=1)
+
+### Introduction to Computer Science
+
+- [Harvard's CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
+
+### Mathematics for Computer Science
+
+- [Shanghai Jiao Tong University's Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
+
+### Other Awesome Lists
+
+- [Open Source Society University](https://github.com/ossu/computer-science)
 
 
 ## Post-admission Resources
