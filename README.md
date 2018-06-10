@@ -7,11 +7,13 @@
 **Disclaimer: we do not guarantee that all of the information on this page are reliable. You have to read through the official website's FAQ first.**
 
 ## Table of Contents
-
 - [Admission Resources](#admission-resources)
   - [Official Resources for Admission](#official-resources-for-admission)
   - [Unofficial Resources for Admission](#unofficial-resources-for-admission)
-- [Computer Science Courses](#for-credit-computer-science-courses)
+- [Computer Science Courses](#computer-science-courses)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Mathematics for Computer Science](#mathematics-for-computer-science)
+  - [Other Awesome Lists](#other-awesome-lists)
 - [Post-admission Resources](#post-admission-resources)
   - [Unofficial guides and resources](#unofficial-guides-and-resources)
 - [Resources for International Applicants](#resources-for-international-applicants)
@@ -26,7 +28,6 @@
   - [Facebook](#facebook)
   - [Twitter](#twitter)
   - [Slack](#slack)
-
 
 ## Admission Resources
 
