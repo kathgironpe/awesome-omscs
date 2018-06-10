@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/katgironpe/awesome-omscs.svg?style=svg)](https://circleci.com/gh/katgironpe/awesome-omscs)
+
 ![Logo](awesome.png)
 
 > Resources on admission, and how to succeed for the Online Master of Science in Computer Science program of the Georgia Institute of Technology.
