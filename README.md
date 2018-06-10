@@ -9,7 +9,7 @@
 - [Admission Resources](#admission-resources)
   - [Official Resources for Admission](#official-resources-for-admission)
   - [Unofficial Resources for Admission](#unofficial-resources-for-admission)
-- [For-credit Computer Science Courses](#for-credit-computer-science-courses)
+- [Computer Science Courses](#for-credit-computer-science-courses)
 - [Post-admission Resources](#post-admission-resources)
   - [Unofficial guides and resources](#unofficial-guides-and-resources)
 - [Resources for International Applicants](#resources-for-international-applicants)
