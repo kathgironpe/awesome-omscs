@@ -18,6 +18,7 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+- To generate new table of contents, run the command `npm run toc`. You need to do this if you added a new subcategory.
 
 
 ### Updating your PR

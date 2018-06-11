@@ -7,13 +7,14 @@
 **Disclaimer: we do not guarantee that all of the information on this page are reliable. You have to read through the official website's FAQ first.**
 
 ## Table of Contents
+<!-- toc -->
 - [Admission Resources](#admission-resources)
   - [Official Resources for Admission](#official-resources-for-admission)
   - [Unofficial Resources for Admission](#unofficial-resources-for-admission)
 - [Computer Science Courses](#computer-science-courses)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Mathematics for Computer Science](#mathematics-for-computer-science)
-  - [Other Awesome Lists](#other-awesome-lists)
+  - [Other Awesome Lists for Computer Science](#other-awesome-lists-for-computer-science)
 - [Post-admission Resources](#post-admission-resources)
   - [Unofficial guides and resources](#unofficial-guides-and-resources)
 - [Resources for International Applicants](#resources-for-international-applicants)
@@ -28,12 +29,13 @@
   - [Facebook](#facebook)
   - [Twitter](#twitter)
   - [Slack](#slack)
+<!-- tocstop -->
 
 ## Admission Resources
 
 ### Official Resources for Admission
 
-- [Official OMS CS FAQ](http://www.omscs.gatech.edu/prospective-students/faq) 
+- [Official OMS CS FAQ](http://www.omscs.gatech.edu/prospective-students/faq)
 - [Academic Calendar](https://career.gatech.edu/sites/default/files/documents/co-op_calendar_2017-2018.pdf)
 - [Costs and Payment Schedule](http://www.omscs.gatech.edu/program-info/cost-payment-schedule)
 - [Application Deadlines, Process and Requirements](https://www.omscs.gatech.edu/program-info/application-deadlines-process-requirements)
@@ -41,7 +43,7 @@
 
 ### Unofficial Resources for Admission
 
-- [GPA Calculator](https://applications.wes.org/igpa-calculator/) 
+- [GPA Calculator](https://applications.wes.org/igpa-calculator/)
 - [Minimum number of recommendation letters: 2](https://www.reddit.com/r/OMSCS/comments/2emm9g/how_many_letters_of_recommendation/)
 
 
@@ -59,7 +61,7 @@
 
 - [Shanghai Jiao Tong University's Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
 
-### Other Awesome Lists
+### Other Awesome Lists for Computer Science
 
 - [Open Source Society University](https://github.com/ossu/computer-science)
 
@@ -98,7 +100,7 @@
 - [Ramblin' Wreck](https://www.youtube.com/watch?v=O6JXKMxRgQ8)
 - [The History of Ramblin' Wreck](https://www.youtube.com/watch?v=6CjryQmz8GM)
 
-## Social Media 
+## Social Media
 
 ### Reddit
 
@@ -119,14 +121,3 @@
 ### Slack
 
 - [OMS CS Study Group](https://omscs-study.slack.com)
-
-
-
-
-
-
-
-
-
-
-

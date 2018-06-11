@@ -4,7 +4,8 @@
   "description": "Awesome OMSCS Resources",
   "main": "index.js",
   "scripts": {
-    "test": "awesome-lint"
+    "test": "awesome-lint",
+    "toc": "auto-toc"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,8 @@
   "homepage": "https://github.com/katgironpe/awesome-omscs#readme",
   "devDependencies": {
     "awesome-lint": "^0.2.0"
+  },
+  "bin": {
+    "auto-toc": "./utils/auto-toc.js"
   }
 }
