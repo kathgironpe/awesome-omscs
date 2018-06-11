@@ -11,6 +11,7 @@ const replaceContents = (file, replacement)=> {
   });
 };
 const doc = read('./README.md');
+// We have to follow the official awesome list linter's standard
 const newDoc = toc.insert(doc, {bullets: '-'});
 
 replaceContents('./README.md', newDoc);
