@@ -18,8 +18,23 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
-- To generate new table of contents, run the command `npm run toc`. You need to do this if you added a new subcategory.
+- To generate new table of contents, run the command `npm run toc`. Please refer to Installation section if the command does not work. You need to do this if you added a new subcategory.
 
+### Installing Dependencies
+
+You need the latest version of `node.js` and `npm`.
+
+Install the dependencies locally:
+
+```
+npm i
+```
+
+You can run the command for creating Table of Contents without globally installing anything:
+
+```
+./utils/auto-toc.js
+```
 
 ### Updating your PR
 
