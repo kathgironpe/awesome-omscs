@@ -9,7 +9,6 @@
 ## Table of Contents
 
 <!-- toc -->
-
 - [Admission Resources](#admission-resources)
   - [Official Resources for Admission](#official-resources-for-admission)
   - [Unofficial Resources for Admission](#unofficial-resources-for-admission)
@@ -31,7 +30,6 @@
   - [Facebook](#facebook)
   - [Twitter](#twitter)
   - [Slack](#slack)
-
 <!-- tocstop -->
 
 ## Admission Resources
