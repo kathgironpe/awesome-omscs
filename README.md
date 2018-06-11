@@ -7,14 +7,15 @@
 **Disclaimer: we do not guarantee that all of the information on this page are reliable. You have to read through the official website's FAQ first.**
 
 ## Table of Contents
+
 <!-- toc -->
 - [Admission Resources](#admission-resources)
   - [Official Resources for Admission](#official-resources-for-admission)
   - [Unofficial Resources for Admission](#unofficial-resources-for-admission)
-- [Computer Science Courses](#computer-science-courses)
+- [Computer Science Courses & Resources](#computer-science-courses--resources)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Mathematics for Computer Science](#mathematics-for-computer-science)
-  - [Other Awesome Lists for Computer Science](#other-awesome-lists-for-computer-science)
+  - [Open Source Computer Science Education](#open-source-computer-science-education)
 - [Post-admission Resources](#post-admission-resources)
   - [Unofficial guides and resources](#unofficial-guides-and-resources)
 - [Resources for International Applicants](#resources-for-international-applicants)
@@ -48,7 +49,7 @@
 
 
 
-## Computer Science Courses
+## Computer Science Courses & Resources
 
 > [There are reports of Information Technology graduates rejected by Georgia Tech. This is primarily because Information Technology does not have the same courses as Computer Science. If you are struggling to go back to school, the University might recognize some MOOC certificates.](https://plus.google.com/u/0/101818942608826178101/posts/CcMMURwzFB5?cfem=1)
 
@@ -56,14 +57,14 @@
 
 - [Harvard's CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
-
 ### Mathematics for Computer Science
 
 - [Shanghai Jiao Tong University's Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics)
 
-### Other Awesome Lists for Computer Science
+### Open Source Computer Science Education
 
 - [Open Source Society University](https://github.com/ossu/computer-science)
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2)
 
 
 ## Post-admission Resources
