@@ -22,6 +22,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
   - [Mathematics for Computer Science](#mathematics-for-computer-science)
   - [Open Source Computer Science Education](#open-source-computer-science-education)
 - [Post-admission Resources](#post-admission-resources)
+  - [Official guides and resources](#official-guides-and-resources)
   - [Unofficial guides and resources](#unofficial-guides-and-resources)
 - [Resources for International Applicants](#resources-for-international-applicants)
   - [TOEFL](#toefl)
