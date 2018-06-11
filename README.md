@@ -74,6 +74,14 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 ## Post-admission Resources
 
+### Official guides and resources
+
+- [OMS CS Onboarding](http://www.omscs.gatech.edu/online-ms-cs/omscsportal/onboarding)
+- [Specializations](https://www.omscs.gatech.edu/program-info/specializations)
+- [OMS CS Newsletter](https://www.omscs.gatech.edu/current-students/newsletter)
+- [Buzzport](https://buzzport.gatech.edu)
+
+
 ### Unofficial guides and resources
 
 - [How to Succeed in OMSCS](http://omscs.wikidot.com)
