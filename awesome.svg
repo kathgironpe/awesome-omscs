@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="900px" height="313px" viewBox="0 0 900 313" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+<svg width="900px" height="224px" viewBox="0 0 900 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>awesome</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="LucidaGrande, Lucida Grande" font-size="48" font-weight="normal">
-        <text id="AWESOME-ONLINE-MASTE">
-            <tspan x="335.152344" y="46" fill="#0B264E">AWESOME</tspan>
-            <tspan x="565.847656" y="46" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
-            <tspan x="117.242188" y="102" fill="#AE9853">ONLINE</tspan>
-            <tspan x="290.890625" y="102" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
-            <tspan x="307.296875" y="102" fill="#AE9853">MASTER</tspan>
-            <tspan x="494.328125" y="102" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
-            <tspan x="510.734375" y="102" fill="#AE9853">OF</tspan>
-            <tspan x="573.757812" y="102" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
-            <tspan x="590.164062" y="102" fill="#AE9853">SCIENCE</tspan>
-            <tspan x="783.757812" y="102" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
-            <tspan x="440.231445" y="169" font-size="20" fill="#AE9853">IN</tspan>
-            <tspan x="460.768555" y="169" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
-            <tspan x="216.324219" y="192" fill="#AE9853">COMPUTER</tspan>
-            <tspan x="474.675781" y="192" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
-            <tspan x="491.082031" y="192" fill="#AE9853">SCIENCE</tspan>
-            <tspan x="684.675781" y="192" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
-            <tspan x="329.960938" y="259" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E">(</tspan>
-            <tspan x="345.96875" y="259" fill="#0B264E">GA</tspan>
-            <tspan x="413.773438" y="259" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E"> </tspan>
-            <tspan x="430.179688" y="259" fill="#0B264E">TECH</tspan>
-            <tspan x="555.03125" y="259" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E">)</tspan>
+        <text id="ONLINE-MASTER-OF-SCI">
+            <tspan x="117.242188" y="46" fill="#AE9853">ONLINE</tspan>
+            <tspan x="290.890625" y="46" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="307.296875" y="46" fill="#AE9853">MASTER</tspan>
+            <tspan x="494.328125" y="46" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="510.734375" y="46" fill="#AE9853">OF</tspan>
+            <tspan x="573.757812" y="46" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="590.164062" y="46" fill="#AE9853">SCIENCE</tspan>
+            <tspan x="783.757812" y="46" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="440.231445" y="113" font-size="20" fill="#AE9853">IN</tspan>
+            <tspan x="460.768555" y="113" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="216.324219" y="136" fill="#AE9853">COMPUTER</tspan>
+            <tspan x="474.675781" y="136" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"> </tspan>
+            <tspan x="491.082031" y="136" fill="#AE9853">SCIENCE</tspan>
+            <tspan x="684.675781" y="136" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#AE9853"></tspan>
+            <tspan x="329.960938" y="203" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E">(</tspan>
+            <tspan x="345.96875" y="203" fill="#0B264E">GA</tspan>
+            <tspan x="413.773438" y="203" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E"> </tspan>
+            <tspan x="430.179688" y="203" fill="#0B264E">TECH</tspan>
+            <tspan x="555.03125" y="203" font-family="MonotypeGurmukhi, Gurmukhi MT" fill="#0B264E">)</tspan>
         </text>
     </g>
 </svg>
