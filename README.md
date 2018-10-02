@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/katgironpe/awesome-omscs.svg?style=svg)](https://circleci.com/gh/katgironpe/awesome-omscs)
+[![CircleCI](https://circleci.com/gh/kathgironpe/awesome-omscs.svg?style=svg)](https://circleci.com/gh/katgironpe/awesome-omscs)
 
 ![Logo](awesome.png)
 
