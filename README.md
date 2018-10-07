@@ -82,6 +82,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 - [OMS CS Newsletter](https://www.omscs.gatech.edu/current-students/newsletter)
 - [Buzzport](https://buzzport.gatech.edu)
 - [Student Handbook](http://grad.gatech.edu/student-handbook)
+- [Academic Calendar](https://registrar.gatech.edu/calendar)
 
 
 ### Unofficial guides and resources
