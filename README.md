@@ -71,7 +71,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2)
-
+- [How to get an equivalent of a CS major using MOOCs](https://backdoorgraduteschooladmissions.quora.com/How-to-get-an-equivalent-of-a-CS-major-using-MOOCs)
 
 ## Post-admission Resources
 
