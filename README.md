@@ -90,7 +90,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 - [How to Succeed in OMSCS](http://omscs.wikidot.com)
 - [OMSCental](https://omscentral.com)
 - [OMSCS Survival Guide](https://github.com/pyjarrett/OMSCS_Survival_Guide)
-
+- [Software and Discounts for GT OMSCS Students](https://docs.google.com/spreadsheets/d/1Gk3IPDd7_WyKeSfyuxXWrh4Hkk80As82CnaOO2m750M/edit#gid=0)
 
 ## Resources for International Applicants
 
