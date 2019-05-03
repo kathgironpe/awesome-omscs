@@ -22,9 +22,12 @@
   },
   "homepage": "https://github.com/katgironpe/awesome-omscs#readme",
   "devDependencies": {
-    "awesome-lint": "^0.2.0"
+    "awesome-lint": "^0.9.1"
   },
   "bin": {
     "auto-toc": "./utils/auto-toc.js"
+  },
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
   }
 }

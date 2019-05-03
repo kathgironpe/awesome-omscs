@@ -14,6 +14,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 ## Table of Contents
 
 <!-- toc -->
+
 - [Admission Resources](#admission-resources)
   - [Official Resources for Admission](#official-resources-for-admission)
   - [Unofficial Resources for Admission](#unofficial-resources-for-admission)
@@ -36,6 +37,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
   - [Facebook](#facebook)
   - [Twitter](#twitter)
   - [Slack](#slack)
+
 <!-- tocstop -->
 
 ## Admission Resources
