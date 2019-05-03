@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/gh/kathgironpe/awesome-omscs.svg?style=svg)](https://circleci.com/gh/kathgironpe/awesome-omscs)
-
-![Logo](awesome.png)
+# Awesome OMSCS [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
 
 > Resources on admission, and how to succeed for the Online Master of Science in Computer Science program of the Georgia Institute of Technology.
 
@@ -11,7 +9,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 **Disclaimer: we do not guarantee that all of the information on this page are reliable. You have to read through the official website's FAQ first.**
 
 
-## Table of Contents
+## Contents
 
 <!-- toc -->
 
@@ -45,7 +43,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 ### Official Resources for Admission
 
 - [Official OMS CS FAQ](http://www.omscs.gatech.edu/prospective-students/faq)
-- [Academic Calendar](https://career.gatech.edu/sites/default/files/documents/co-op_calendar_2017-2018.pdf)
+- [Academic Calendar](https://registrar.gatech.edu/calendar)
 - [Costs and Payment Schedule](http://www.omscs.gatech.edu/program-info/cost-payment-schedule)
 - [Application Deadlines, Process and Requirements](https://www.omscs.gatech.edu/program-info/application-deadlines-process-requirements)
 - [Minimum TOEFL score: 100](http://www.omscs.gatech.edu/prospective-students/faq)
@@ -139,3 +137,10 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 ### Slack
 
 - [OMS CS Study Group](https://omscs-study.slack.com)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Katherine Giron Pe](https://kat.pe) has waived all copyright and related or neighboring rights to this work.

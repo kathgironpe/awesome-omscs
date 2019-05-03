@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katgironpe/awesome-omscs.git"
+    "url": "git+https://github.com/kathgironpe/awesome-omscs.git"
   },
   "keywords": [
     "OMSCS",
@@ -18,9 +18,9 @@
   "author": "Katherine G. Pe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/katgironpe/awesome-omscs/issues"
+    "url": "https://github.com/kathgironpe/awesome-omscs/issues"
   },
-  "homepage": "https://github.com/katgironpe/awesome-omscs#readme",
+  "homepage": "https://github.com/kathgironpe/awesome-omscs#readme",
   "devDependencies": {
     "awesome-lint": "^0.9.1"
   },
