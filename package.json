@@ -4,7 +4,6 @@
   "description": "Awesome OMSCS Resources",
   "main": "index.js",
   "scripts": {
-    "test": "awesome-lint",
     "toc": "./utils/auto-toc.js"
   },
   "repository": {

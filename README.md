@@ -1,4 +1,4 @@
-# Awesome OMSCS [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
+# Awesome OMSCS
 
 > Resources on admission, and how to succeed for the Online Master of Science in Computer Science program of the Georgia Institute of Technology.
 
