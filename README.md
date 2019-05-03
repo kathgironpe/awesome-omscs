@@ -59,7 +59,6 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 ## Computer Science Courses & Resources
 
-> [There are reports of Information Technology graduates rejected by Georgia Tech. This is primarily because Information Technology does not have the same courses as Computer Science. If you are struggling to go back to school, the University might recognize some MOOC certificates.](https://plus.google.com/u/0/101818942608826178101/posts/CcMMURwzFB5?cfem=1)
 
 ### Introduction to Computer Science
 
