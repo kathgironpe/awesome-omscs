@@ -118,10 +118,6 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 - [Reddit OMSCS](https://www.reddit.com/r/OMSCS/)
 
-### Google Plus
-
-- [Google Plus - Georgia Tech OMSCS](https://plus.google.com/communities/108902554607547634726)
-
 ### Facebook
 
 - [OMSCS Students](https://www.facebook.com/groups/gtomscsstudents)
