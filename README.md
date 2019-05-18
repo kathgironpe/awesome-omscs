@@ -112,11 +112,6 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 - [QS World University Rankings 2018: Statistics - Top 7 Worldwide](https://www.theguardian.com/higher-education-network/2018/feb/28/qs-world-university-rankings-2018-statistics)
 
 
-### Songs
-
-- [Ramblin' Wreck](https://www.youtube.com/watch?v=O6JXKMxRgQ8)
-- [The History of Ramblin' Wreck](https://www.youtube.com/watch?v=6CjryQmz8GM)
-
 ## Social Media
 
 ### Reddit
