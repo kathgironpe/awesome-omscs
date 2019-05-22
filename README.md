@@ -61,7 +61,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 ### Introduction to Computer Science
 
 - [Harvard's CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
-- [Computing in Python I: Fundamentals and Procedural Programming](https://courses.edx.org/courses/course-v1:GTx+CS1301xI+1T2019/course/)
+- [Introduction to Computing in Python](https://www.edx.org/professional-certificate/introduction-to-computing-in-python)
 
 ### Mathematics for Computer Science
 
