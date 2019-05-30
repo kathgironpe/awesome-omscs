@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kathgironpe/awesome-omscs#readme",
   "devDependencies": {
-    "awesome-lint": "^0.9.1"
+    "awesome-lint": "^0.10.0"
   },
   "bin": {
     "auto-toc": "./utils/auto-toc.js"
