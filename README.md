@@ -28,7 +28,6 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 - [Georgia Institute of Technology General Info](#georgia-institute-of-technology-general-info)
   - [History](#history)
   - [Rank](#rank)
-  - [Songs](#songs)
 - [Social Media](#social-media)
   - [Reddit](#reddit)
   - [Google Plus](#google-plus)
