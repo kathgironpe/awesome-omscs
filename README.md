@@ -30,7 +30,6 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
   - [Rank](#rank)
 - [Social Media](#social-media)
   - [Reddit](#reddit)
-  - [Google Plus](#google-plus)
   - [Facebook](#facebook)
   - [Twitter](#twitter)
   - [Slack](#slack)
@@ -59,7 +58,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 ### Introduction to Computer Science
 
-- [Harvard's CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+- [Harvard's CS 50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 - [Introduction to Computing in Python](https://www.edx.org/professional-certificate/introduction-to-computing-in-python)
 
 ### Mathematics for Computer Science
@@ -111,6 +110,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 - [Top 6 in Computer Science - United States](https://www.usnews.com/best-colleges/georgia-tech-1569/overall-rankings)
 - [QS World University Rankings 2018: Statistics - Top 7 Worldwide](https://www.theguardian.com/higher-education-network/2018/feb/28/qs-world-university-rankings-2018-statistics)
+- [THE World University Rankings 2019: Top 7 Worldwide](https://www.timeshighereducation.com/world-university-rankings/georgia-institute-technology?ranking-dataset=589595)
 
 
 ## Social Media
