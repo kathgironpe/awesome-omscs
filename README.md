@@ -98,6 +98,7 @@ We encourage [contributions](./CONTRIBUTING.md). Please read the guidelines incl
 
 - [TOEFL iBT](https://www.ets.org/toefl/ibt/about)
 - [Official TOEFL Practice Test](http://toeflpractice.ets.org)
+- [TOEFL Free Practice Test](https://www.ets.org/s/toefl/free-practice/start.html)
 
 
 ## Georgia Institute of Technology General Info
